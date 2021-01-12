@@ -1,0 +1,142 @@
+body
+{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+a
+{
+    color: #11999E;
+}
+
+h1
+{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.62rem;
+    color:#66BFBF;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:#66BFBF;
+    font-weight: bold;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+hr
+{
+    border-color: #bebebe;
+    border-width:thick;
+    width: 5%;
+    border-style: dotted;
+    
+    margin-top: 100px;
+    margin-bottom: 80px;
+    border-width: thick;
+    border-bottom-width: 0;
+}
+.top-container
+{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.bottom-container
+{
+   background-color: #66BFBF;
+   padding: 50px 0 20px;
+   height: 120px;
+}
+.btn {
+    height: 20px;
+    width: 150px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 20px;
+    background-color: #66BFBF;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ 
+.contact-me
+{
+    margin-bottom: 60px;
+}
+.footer-link
+{
+    
+    margin-top: 500px;
+    margin-right: 50px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+.bottom-cloud
+{
+    position: absolute;
+}
+.top-cloud
+{
+    position: absolute;
+    top: 45px;
+    left: 60%;
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 80px auto ;
+    text-align: left;
+    height: 400px;
+}
+.intro-para
+{
+    width: 40%;
+    margin: 0 auto 0 auto;
+}
+.webdimage
+{
+     width: 50%;
+     height: 300px;
+     float: left;
+     margin-right: 30px;
+}
+.dsaimage
+{
+    width: 50%;
+    height: 300px;
+    float: right;
+    margin-left: 40px;
+    
+}
